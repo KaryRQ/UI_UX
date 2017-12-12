@@ -150,9 +150,16 @@ Al dar scroll en esa misma pantalla podemos comenzar a ver todos los perfiles qu
 **Elementos UX**
 Aquí podemos ver como las empresas pueden ver que perfil e adapta a sus necesidades y que es lo que pueden ofrecer mutuamente
 
+## Analisis de Github
+
+Este analisis es para describir como ve la página un usurio nuevo
+
+**Pantalla principal
+
+Esta muestra
+
 ## SKETCH DE MARVEL
 
 Los datos que se pueden ver son los datos de Lima y primera generación
 
 https://marvelapp.com/project/2534162/
-
