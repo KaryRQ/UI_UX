@@ -1,5 +1,9 @@
 # **Elementos UX y UI**
 
+**Objetivo de Negocio**
+
+El objetivo de esta página es el poder generar un cambio en la vida de las posibles alumnas con este programa que ofrece, así como que también ofrece a los negocios talent tech para sus empresas.
+
 En este proyecto veremos los elementos tanto de Ux como de Ui de la página de [**Laboratoria**](http://www.laboratoria.la/ ).
 
 ## ** Comencemos:**
@@ -126,7 +130,7 @@ La mejor fuente de talento femenino tech de Latinoamérica para el mundo"**, el 
 
 ![Nuestros cursos](assets/images/10.jpg)
 
-Pantalla co datos para cotratar talento LABORATORIA
+Pantalla con datos para contratar talento LABORATORIA
 
 **Elementos UI**
 * Se encuentra un botón en la esquina superior derecha de **Postea una Oferta**
@@ -150,13 +154,31 @@ Al dar scroll en esa misma pantalla podemos comenzar a ver todos los perfiles qu
 **Elementos UX**
 Aquí podemos ver como las empresas pueden ver que perfil e adapta a sus necesidades y que es lo que pueden ofrecer mutuamente
 
-## Analisis de Github
+## Analisis de Navegación de Github
 
-Este analisis es para describir como ve la página un usurio nuevo
+Este analisis es para describir como ve la página un usuario registrado
 
-**Pantalla principal
+![Pantalla principal Github](assets/images/g1.jpg)
 
-Esta muestra
+**Pantalla principal**
+
+Esta pantalla tiene encerrado en un recuadro rojo lo que se consideraría la navegación global
+
+![Sig in Github](assets/images/g2.jpg)
+
+En esta paantalla podemos ver diferentes elementos UI como lo son los cuadros de texto para introducir usuario y comntraseña de ususario registrado y el botón de sig in pra poder entrara a la página.
+
+Una vez que introduzcamos estos datos entonces podremos ver la siguiente pantalla.
+
+![Pantalla usuario Github](assets/images/g3.jpg)
+
+* En esta pantalla podemos observar que en el recuadro verde se encuentra una navegación local
+
+* En el recuadro azul vemos navegación contextual
+
+* En el recuadro rojo es navegación facetada
+
+
 
 ## SKETCH DE MARVEL
 
