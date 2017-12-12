@@ -145,4 +145,14 @@ Al dar scroll en esa misma pantalla podemos comenzar a ver todos los perfiles qu
 **Elementos UI**
 * se observ un filtr donde se pueden seleccionar las sede que se desean veremos
 * Filtro para orrdenar la infoación
-* Siltro para ver perfile con ciertas caracterpisticas
+* Filtro para ver perfiles con ciertas características
+
+**Elementos UX**
+Aquí podemos ver como las empresas pueden ver que perfil e adapta a sus necesidades y que es lo que pueden ofrecer mutuamente
+
+## SKETCH DE MARVEL
+
+Los datos que se pueden ver son los datos de Lima y primera generación
+
+https://marvelapp.com/project/2534162/
+
